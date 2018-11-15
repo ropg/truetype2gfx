@@ -202,7 +202,7 @@ if (isset($_POST["submit-file"])) {
 lot of devices. And then there's the different fonts displaying at radically different sizes due to various metrics 
 included in the font. (See <a href="https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align">here</a> 
 for details.) But I don't have to care about that: when I make gfx fonts and include them on my device, they are the 
-same size as they are on the virtual device on the screen above.</p>
+same size as they are on the virtual device on the screen above. (This only works if your screen is 320x240 pixels. If your screen dimensions are different, you can still see the size relative to the FreeFonts of a given size.)</p>
 
 <h3>Your own fonts</h3>
 
