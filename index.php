@@ -188,7 +188,7 @@ if (isset($_POST["submit-file"])) {
 			
 <h3>Introducing truetype2gfx</h3>
 
-<p>Many Arduino projects and ready-built devices come with a display. And many of the display drivers use the Adafruit GFX display driver to display variable-width fonts. Some fonts usually are included with the driver, and then there's a complicated procedure for adding your own fonts. It involves compiling tools and a trial-and-error process for figuring out how big the font will turn out on your display.</p>
+<p>Many Arduino projects and ready-built devices come with a display. And the Adafruit GFX display driver is used by many of them to display variable-width fonts. Some fonts usually are included with the driver, and then there's a complicated procedure for adding your own fonts. It involves compiling tools and a trial-and-error process for figuring out how big the font will turn out on your display.</p>
 			
 <p>But now you can skip all that and convert the fonts your Arduino project needs with ease. No need to compile tools, no more guessing how big a font will be. Simply select a FreeFont or upload any TrueType font, select a size, download the include file and you're ready to use the font in your project.</p>
 
