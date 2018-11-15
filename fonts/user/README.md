@@ -1,0 +1,1 @@
+Make sure this directory (fonts/user) is writable to the webserver user.
