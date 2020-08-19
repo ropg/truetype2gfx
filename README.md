@@ -4,7 +4,7 @@
 
 [![](truetype2gfx-screenshot.png)](https://rop.nl/truetype2gfx)
 
-Many Arduino projects and ready-built devices come with a display. And the Adafruit GFX display driver is used by many of them to display variable-width fonts. Some fonts usually are included with the driver, and then there's a complicated procedure for adding your own fonts. It involves compiling tools and a trail-and-error process for figuring out how big the font will be on your display as well as relative to the other fonts.
+Many Arduino projects and ready-built devices come with a display. And the Adafruit GFX display driver is used by many of them to display variable-width fonts. Some fonts usually are included with the driver, and then there's a complicated procedure for adding your own fonts. It involves compiling tools and a trial-and-error process for figuring out how big the font will be on your display as well as relative to the other fonts.
 
 But now you can skip all that and convert the fonts your Arduino project needs with ease. No need to compile tools, no need to find out how big a font will be by trial and error. Simply select a FreeFont or upload any TrueType font, select a size, download the include file and you're ready to use the font in your project.
 
